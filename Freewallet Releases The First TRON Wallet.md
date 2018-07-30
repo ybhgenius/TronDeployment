@@ -1,25 +1,23 @@
-# Freewallet Releases The First TRON Wallet
+# Freewallet发布首个波场钱包
 
-Freewallet is one of the first top companies to fully support the TRON coin — the official currency of TRON, a decentralized entertainment content sharing platform that will eventually leverage blockchain and peer-to-peer network technology. Today, Freewallet is releasing a wallet dedicated to TRX on Android and is also adding TRX to its flagship wallet, Multiwallet, available on iOS, Android, and web.
+Freewallet是首批全面支持波场币的龙头企业之一。波场TRON是一个利用区块链和P2P网络技术实现的去中心化娱乐内容分享平台，波场币（TRX）是其发行的官方代币。 今天，Freewallet在安卓系统上发布了专门支持TRX的钱包，还将TRX添加至它的旗舰钱包Multiwallet， 在iOS、安卓以及网页客户端上均可使用。
 
-TRON wallet by Freewallet on Android can be topped up by almost any cryptocurrency. The Multiwallet app helps to manage multiple coins and cross-exchanging them in one place.
+Freewallet在安卓系统上所发布的波场钱包，基本可以使用任意加密货币进行充值。 用户可以在Multiwallet APP上管理多种代币，实现交叉汇兑。
 
-Unlike other TRON hodlers, Freewallet users don’t have to deposit their ERC-20 TRX to an exchange to swap them for the new TRX. All Freewallet users that have any TRX(ERC-20) in their Token Wallet on July 25rd will have their tokens automatically swapped for the new TRX, accessible via TRON Wallet and Multiwallet with zero effect on the balance.
+不同于其他TRX持币人，Freewallet用户不需要为了兑换主网TRX而将手中的ERC20代币存入交易所。 7月25日，所有Freewallet用户存在波场钱包中的ERC20代币，都将自动兑换为主网TRX，可以通过波场钱包以及Multiwallet查看，此次兑换对余额没有任何影响。
 
-“We have always tried to be the first to support coins that make an impact on cryptocommunity,” states Alvin Hagg, Freewallet co-founder. “TRX is the 11th cryptocurrency right now and we are proud to help holders to make transactions right after mainnet launch.”
+Freewallet联合创始人Alvin Hagg说："如果某种代币能深刻影响币圈，那我们会尽力成为第一个支持它的钱包。" “TRX如今是排名第11的加密货币，能在波场主网上线后第一时间帮助持币人进行交易，我们与有荣焉。”
 
-## About TRON
+## 关于波场TRON
 
-TRON (TRX) is the official currency of TRON, TRON is dedicated to building the infrastructure for a truly decentralized Internet. The Tron Protocol, one of the largest blockchain-based operating systems in the world, offers scalable, high-availability, and high-throughput support that serves as the foundation for all decentralized applications in the TRON ecosystem. It also provides better compatibility for Ethereum smart contracts through an innovative, pluggable smart contract platform.
+波场TRON致力于为真正的去中心化互联网搭建基础设施。波场币（TRX）是波场发行的官方代币。 波场TRON协议是全球最大的基于区块链的去中心化应用操作系统协议之一，为协议上的去中心化应用运行提供高吞吐、高扩展、高可靠性的底层公链支持， 并且通过创新的可插拔式智能合约平台更好地兼容以太坊的智能合约。
 
-On June 25th, TRON’s team launched of its mainnet. That means that TRON has launched its own proprietary blockchain, to which it migrated all the TRX (ERC-20) tokens that previously circulated on the Ethereum blockchain. This event is referred to as the TRON Independence Day.
+波场主网于6月25日上线。 这标志着，波场已经发布了自有区块链，可以将之前流通于以太坊网络的所有ERC20代币迁移至主网。 波场将这一天称为波场“独立日”。
 
-This week TRON acquired BitTorrent, pioneer in distributing computing, thus expanding its ecosystem with 100M new members.
+波场于本周收购了分布式计算的先驱BitTorrent，将一亿新用户纳入波场生态。
 
-##About Freewallet
+## 关于Freewallet
 
-Freewallet — the company behind the digital currency hosted wallet with built-in exchange for web, iOS and Android devices with Bitcoin, Ethereum, Litecoin, Dogecoin, Monero, Bytecoin, and a total of 25 cryptocurrencies held in one place. According newsbtc, Freewallet is the third most popular online wallet for Android.
+Freewallet旗下的数字货币托管钱包，具备内置交易所，支持网页、iOS以及安卓平台，集比特币、以太坊、莱特币、狗狗币、门罗币、百特币等25种加密货币存储于一身。 据NewsBTC报道，Freewallet是排名第三最受欢迎的线上安卓钱包。
 
-A team of developers released the first mobile cryptocurrency wallet on Android in January 2016. In 2018 the Freewallet family includes Multiwallet on iOS, Android and web, and 8 single currency wallets on iOS and 21 on Android.
-
-
+2016年1月，一支开发团队发布了首个安卓版移动加密货币钱包。 2018年，Freewallet产品版图已涵盖iOS、安卓以及网页版Multiwallet；此外还有支持单一币种的8个iOS钱包以及21个安卓钱包。
