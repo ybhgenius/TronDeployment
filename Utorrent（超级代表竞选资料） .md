@@ -6,7 +6,7 @@
 
 ## 二、团队
 
-![]()
+![](https://raw.githubusercontent.com/ybhgenius/TronDeployment/master/图片/团队.png)
 
 ## 三、社区计划
 
