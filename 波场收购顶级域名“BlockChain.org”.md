@@ -6,7 +6,7 @@
 
 和其他收购域名是为了作为战略储备等待升值的公司不同，波场已经对BlockChain.org的发展有了清晰的战略规划，BlockChain将被打造成一个区块链行业中去中心化的“Google”，一个集区块搜索，大数据分析，行业新闻等于一体的聚合化、一站式数据搜索服务平台。
 
-![]()
+![](https://raw.githubusercontent.com/ybhgenius/TronDeployment/master/图片/blockchain.png)
 
 2017年被称为区块链元年，大量的区块链项目涌现，其中不乏技术过硬却无人问津的项目。无论对于项目方来说还是对于用户来说，行业的迅猛发展都遗留下了许多痛点等待解决。
 
